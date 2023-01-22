@@ -1,4 +1,4 @@
-Olá eus ou o Maurício de Campos Oliveira👋
+Olá eu sou o Maurício de Campos Oliveira👋
 
 <!--
 **MauricioOliveira30/MauricioOliveira30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
